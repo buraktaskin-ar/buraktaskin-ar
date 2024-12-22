@@ -1,6 +1,6 @@
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/buraktaskin-ar/github-readme-stats)
 
 <p> <strong>I am currently uploading my college, freelance, and personal projects from my first and second years, as well as the summer term.</strong> </p>
 <p> 
