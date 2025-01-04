@@ -17,6 +17,5 @@
         <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/burak-taşkın-207431331/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/burak-taşkın-207431331/</a></li>
         <li><strong>YouTube:</strong> <a href="https://www.youtube.com/@Burak_Taskin" target="_blank" rel="noopener noreferrer">https://www.youtube.com/@Burak_Taskin</a></li>
          <li><strong>LeetCode:</strong> <a href="https://leetcode.com/u/taskin_burak_leet/" target="_blank" rel="noopener noreferrer">https://leetcode.com/u/taskin_burak_leet/</a></li>
-
     </ul>
 </div>
