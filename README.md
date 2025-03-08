@@ -3,7 +3,7 @@
 
 <p> <strong>I am currently uploading my college, freelance, and personal projects from my first and second years, as well as the summer term.</strong> </p>
 <p> 
-    I'm a 3rd-year Computer Engineering student passionate about developing projects using Python, C++, Java, and Spring Boot technologies. 
+    I'm a 3rd-year Computer Engineering student passionate about developing projects using Python, Java, and Spring Boot technologies. 
     I am currently learning about Concurrent Programming, Microservices, Docker, Kubernetes, Cloud technologies, Data Science and Statistical Learning Methods.
 </p>
 
